@@ -4,4 +4,3 @@ Test repo for learning GIT
 * learn
 * adopt a dog
 * plant a tree
-* change the word
